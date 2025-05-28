@@ -148,10 +148,8 @@ Learn-QT-for-Python/
 ### 📊 Progress Tracking
 
 ```
-Learning Progress: ████████░░ 80%
-Basic Concepts:   ██████████ 100%
-Intermediate:     ████████░░ 80%
-Advanced:         ██████░░░░ 60%
+Learning Progress: █████░░░░░░░ 40%
+
 ```
 
 ---
