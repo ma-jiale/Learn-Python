@@ -2,7 +2,7 @@ import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QStackedWidget
 from PySide6.QtCore import QFile, Slot
 from ui_main_window import Ui_main_window
-from ui_window import Ui_window_2
+from ui_window_2 import Ui_window_2
 
 class MainWindow(QMainWindow):
     def __init__(self):
